@@ -20,3 +20,5 @@ Fala galera, beleza?
 - https://ge.globo.com/blogs/blog-do-rodrigo-capelo/post/2021/07/22/as-financas-do-vasco-em-2020-atormentado-por-dividas-e-guerra-politica-o-gigante-ainda-gasta-mal-o-pouco-dinheiro-que-arrecada.ghtml
 - https://ge.globo.com/futebol/times/vasco/noticia/2022/09/02/vasco-e-777-finalizam-nesta-sexta-venda-de-70percent-da-saf-por-r-120-milhoes.ghtml
 - https://ge.globo.com/futebol/times/vasco/noticia/eleicao-no-vasco-suspensao-do-pleito-pela-justica-causa-confusao-e-brigas-ao-redor-de-sao-januario.ghtml
+# - Banco de dados para pesquisa
+- https://colab.research.google.com/drive/11V_Owe3N1z71c6Q18Q2JNrnH_t0fTwDg?usp=sharing
